@@ -2,6 +2,6 @@
 int main()
 {
 	  printf("Hello world\n");
-		printf("Que merda de Hello o que seu viadinho de bosta!!!")
+		printf("Que merda de Hello o que seu viadinho de bosta!!!");
 		  return 0;
 }
